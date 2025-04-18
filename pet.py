@@ -35,7 +35,7 @@ class Pet:
             return
         else:
             self.tricks.append(trick)
-            print(f"{self.name} learnined a new trick: '{trick} !' ")
+            print(f"{self.name} learned a new trick: '{trick} !' ")
 
 
     def show_tricks(self):
