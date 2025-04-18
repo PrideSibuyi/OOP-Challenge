@@ -1,7 +1,7 @@
 from pet import Pet
 
 def main():
-    print("🐶 Digital Pet Simulator")
+    print(" Digital Pet Simulator")
     pet_name = input("Enter your pet's name: ")
     my_pet = Pet(pet_name)
 
